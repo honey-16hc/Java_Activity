@@ -1,4 +1,4 @@
-package Problem2;
+package Activity2.problem2;
 
 public class EmployeeMain {
 	public static void main(String[] args) {

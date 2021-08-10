@@ -1,4 +1,4 @@
-package Problem2;
+package Activity2.problem2;
 
 public class Employee {
 

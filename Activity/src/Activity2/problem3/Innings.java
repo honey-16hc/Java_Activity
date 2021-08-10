@@ -1,4 +1,4 @@
-package problem3;
+package Activity2.problem3;
 
 public class Innings {
 
