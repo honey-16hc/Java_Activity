@@ -36,7 +36,6 @@ public class DisplayTeamMain {
 		for (Player player : me.getValue().getPlayerList()) {
 			System.out.println("--"+player.getName());
 		}
-		
 	    }
  }
 }
